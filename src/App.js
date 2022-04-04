@@ -3,22 +3,21 @@ import About from './components/About';
 import Nav from './components/Nav';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
+import Resume from './components/Resume';
 import './App.css';
 
 function App() {
   const [contactSelected, setContactSelected] = useState(false);
-
+  
   const [categories] = useState([
     {
       name: "portfolio",
       description:
         "Photos and links to some of my favorite pojects I've completed so far!",
     },
-    { name: "portraits", description: "Portraits of people in my life" },
-    { name: "food", description: "Delicious delicacies" },
     {
-      name: "landscape",
-      description: "Fields, farmhouses, waterfalls, and the beauty of nature",
+      name: "resume",
+      description: "The Full Monty"
     },
 ]);
 const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -37,11 +36,11 @@ const [currentCategory, setCurrentCategory] = useState(categories[0]);
           <>
             <Gallery currentCategory={currentCategory}></Gallery>
             <About></About>
+            <Resume></Resume>
           </>
         ) : (
           <ContactForm></ContactForm>
         )}
-        
       </main>
     </div>
   );
