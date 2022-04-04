@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactpholio/static/css/main.0039b4fe.css",
+    "main.js": "/reactpholio/static/js/main.3a1a06c9.js",
+    "static/js/787.512dd3f2.chunk.js": "/reactpholio/static/js/787.512dd3f2.chunk.js",
+    "static/media/cover-image.jpg": "/reactpholio/static/media/cover-image.0a7c67729500c9b5e8f5.jpg",
+    "static/media/1.jpg": "/reactpholio/static/media/1.5b140e2923ef15de73f4.jpg",
+    "static/media/2.jpg": "/reactpholio/static/media/2.11f857697374875bfd31.jpg",
+    "static/media/0.jpg": "/reactpholio/static/media/0.93856a648339aae62d09.jpg",
+    "index.html": "/reactpholio/index.html",
+    "main.0039b4fe.css.map": "/reactpholio/static/css/main.0039b4fe.css.map",
+    "main.3a1a06c9.js.map": "/reactpholio/static/js/main.3a1a06c9.js.map",
+    "787.512dd3f2.chunk.js.map": "/reactpholio/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0039b4fe.css",
+    "static/js/main.3a1a06c9.js"
+  ]
+}
