@@ -25,6 +25,13 @@ function PhotoList({ category }) {
           link: 'https://awtrekkie.herokuapp.com/',
           key: 'trekkie'
         },
+        {
+          name: 'Dedly',
+          category: 'portfolio',
+          description: 'This is the full monty the complete MERN stack! From front to back this one does it all home-fry!',
+          link: 'https://project-ded.herokuapp.com/',
+          key: 'ded'
+        }
     ]);
     const currentPhotos = photos.filter((photo) => photo.category === category);
     const [currentPhoto, setCurrentPhoto] = useState();
