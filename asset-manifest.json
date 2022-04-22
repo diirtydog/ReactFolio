@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/ReactFolio/static/css/main.0039b4fe.css",
-    "main.js": "/ReactFolio/static/js/main.390290a4.js",
+    "main.js": "/ReactFolio/static/js/main.50dd83fb.js",
     "static/js/787.512dd3f2.chunk.js": "/ReactFolio/static/js/787.512dd3f2.chunk.js",
     "static/media/cover-image.jpg": "/ReactFolio/static/media/cover-image.0a7c67729500c9b5e8f5.jpg",
+    "static/media/3.jpg": "/ReactFolio/static/media/3.f57c01cf881f0ba31a18.jpg",
     "static/media/1.jpg": "/ReactFolio/static/media/1.5b140e2923ef15de73f4.jpg",
     "static/media/2.jpg": "/ReactFolio/static/media/2.11f857697374875bfd31.jpg",
     "static/media/0.jpg": "/ReactFolio/static/media/0.93856a648339aae62d09.jpg",
     "index.html": "/ReactFolio/index.html",
     "main.0039b4fe.css.map": "/ReactFolio/static/css/main.0039b4fe.css.map",
-    "main.390290a4.js.map": "/ReactFolio/static/js/main.390290a4.js.map",
+    "main.50dd83fb.js.map": "/ReactFolio/static/js/main.50dd83fb.js.map",
     "787.512dd3f2.chunk.js.map": "/ReactFolio/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0039b4fe.css",
-    "static/js/main.390290a4.js"
+    "static/js/main.50dd83fb.js"
   ]
 }
